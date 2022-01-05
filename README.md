@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ierturk
-- 👀 I’m interested in [Embedded C/C++/Qt/Qml/AI](https://github.com/ierturk/qt-qml-ai-collection)
+- 👀 I’m interested in [Embedded C/C++/Qt/Qml/AI/Docker and GitHub Actions](https://github.com/ierturk/qt-qml-ai-collection)
 - 🌱 I’m currently learning [HUGO](https://gohugo.io/)
 - 💞️ I’m looking to collaborate on [Embedded RPC](https://github.com/EmbeddedRPC/erpc)
 - 📫 How to reach me [erturk.me](https://erturk.me/contact)
