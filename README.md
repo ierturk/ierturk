@@ -2,7 +2,7 @@
 - 👀 I’m interested in [Embedded C/C++/Qt/Qml/AI/Docker](https://github.com/ierturk/qt-qml-ai-collection) and GitHub Actions
 - 🌱 I’m currently learning [RUST](https://www.rust-lang.org)
 - 💞️ I’m looking to collaborate on the Embedded Systems
-- 📫 How to reach me [erturk.me](https://erturk.me/contact)
+- 📫 How to reach me [erturk.me](https://erturk.me/about)
 
 <!---
 ierturk/ierturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
