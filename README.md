@@ -1,5 +1,3 @@
-<img src="docs/images/me.jpeg" alt="A photo of me" class="bordered me-pic" align="right" style="margin-left: 1em; border-radius: 50%" width="250">
-
 I'm **Abe (he/they)**, a Software Architect at [ICterra](https://www.icterra.com/). I work on the embedded software development in telecommunication projects. I'm a PhD candidate at [Ege University](https://ege.edu.tr/eng-0/Homepage.html).
 
 # Some facts about me:
